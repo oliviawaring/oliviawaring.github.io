@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Olivia Mae Waring"
 title_separator          : "-"
 name                     : &name "Olivia Mae Waring"
-description              : &description "Personal/Professional WEbiste"
+description              : &description "Personal/Professional Website"
 url                      : https://oliviawaring.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://oliviawaring.com"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Olivia Mae Waring"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in linguistics and endangered language documentation"
   location         : "Honolulu, Hawaiʻi"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=MGecf7IAAAAJ&hl=en&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
