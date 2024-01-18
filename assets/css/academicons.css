@@ -325,3 +325,14 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.notice--uh {
+    margin: 2em 1em !important;
+    padding: 1em;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: .75em !important;
+    text-indent: initial;
+    background-color: #e6eeea;
+    border-radius: 8px;
+    box-shadow: 0 1px 1px rgba(0,81,47,0.25);
+}

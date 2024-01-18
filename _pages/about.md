@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Olivia Mae Waring"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,3 +21,4 @@ Definition List Title
 ## Previous Work
 
 I began my academic journey in the natural sciences, with a focus on physical and computational chemistry. Over the years, I have worked as a software engineer at NPR and Microsoft; a journalist in rural India; and a high school chemistry and computer science teacher in Boston. One consistent through-line ... education and ... 
+
