@@ -10,6 +10,14 @@ Statement about teaching
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+## LING 320: General Linguistics and Artificial Intelligence
+
+Undergraduate course
+
+UH Mānoa Department of Linguistics
+Spring 2024
+
+
+<!--{% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
