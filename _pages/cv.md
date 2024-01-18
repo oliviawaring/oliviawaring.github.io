@@ -9,25 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
-## BS Chemistry (minor in Chinese Language and Culture)
+### BS Chemistry (minor in Chinese Language and Culture)
 
 Princeton University, 2012, <i>summa cum laude</i>
 
-## MSt General Linguistics and Comparative Philology
+### MSt General Linguistics and Comparative Philology
 
 University of Oxford, 2013, <i>distinction</i>
 
-## PhD Linguistics
+### PhD Linguistics
 
 University of Hawaiʻi at Mānoa, matriculated 2022
 
-## Coursework in Medical Engineering and Medical Physics
+### Coursework in Medical Engineering and Medical Physics
 
-MIT and Harvard Medical School, enrolled 2017-19
+MIT and Harvard Medical School, enrolled 2017-19 
 
-# Previous Work
+## Previous Career
 
 I began my academic journey in the natural sciences, with a focus on physical and computational chemistry. Over the years, I have worked as a software engineer at NPR and Microsoft; a journalist in rural India; and a high school chemistry and computer science teacher in Boston. One consistent through-line ... education and ... 
 
