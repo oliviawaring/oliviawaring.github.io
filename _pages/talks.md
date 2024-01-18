@@ -4,6 +4,8 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+### SITE UNDER CONSTRUCTION
+
 
 {% if site.talkmap_link == true %}
 
@@ -32,7 +34,7 @@ ComputEL 6, Virtual (March 2023). Talk.
 
 ### Linguistics Education as a Supplement to Second Language Learning: A Guided Introduction to Language Construction
 
-## Non-linguistics
+## Health and Computer Science
 
 ### An Introduction to Digital Phenotyping for Global Health
 
