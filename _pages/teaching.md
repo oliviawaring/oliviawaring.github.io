@@ -6,15 +6,13 @@ author_profile: true
 ---
 ### SITE UNDER CONSTRUCTION
 
-Statement about teaching
+*Statement about teaching*
 
 {% include base_path %}
 
-## LING 320: General Linguistics and Artificial Intelligence
+### LING 320: General Linguistics and Artificial Intelligence
 
-Undergraduate course
-
-UH Mānoa Department of Linguistics
+Undergraduate course, UH Mānoa Department of Linguistics,
 Spring 2024
 
 
