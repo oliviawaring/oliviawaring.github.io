@@ -15,7 +15,7 @@ author_profile: true
 Undergraduate course, UH Mānoa Department of Linguistics,
 Spring 2024
 
-
+Download syllabus here
 <!--{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}-->
