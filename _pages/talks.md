@@ -3,6 +3,9 @@ layout: archive
 title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
+header:
+  image: /images/foo-bar-identity.jpg
+
 ---
 ### SITE UNDER CONSTRUCTION (please excuse the mess!)
 
