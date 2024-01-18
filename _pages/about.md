@@ -17,7 +17,8 @@ I am a PhD student in linguistics at the University of Hawai'i at Mānoa, where 
 # Education
 
 ## BS Chemistry (minor in Chinese Language and Culture)
-:   Definition list division.
+
+Princeton University, 2012, <i>summa cum laude</i>
 
 ## MSt General Linguistics and Comparative Philology
 :sdgagf
