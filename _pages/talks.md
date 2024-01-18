@@ -23,35 +23,32 @@ author_profile: true
 
 The Institute on Collaborative Language Research (CoLang), Arizona (June 2024). Two-week Workshop.
 
-### Auto-Transcription of Endangered Sign Languages Using Haar Cascade Classifiers
+### Linguistics Education as a Supplement to Second Language Learning: A Guided Introduction to Language Construction
 
 Hawai‘i Association of Language Teachers Conference, Honolulu, Hawaiʻi (April 2023). Workshop.
 
+### Auto-Transcription of Endangered Sign Languages Using Haar Cascade Classifiers
 
-Int’l Conference on Language Documentation and Conservation 8, Honolulu, Hawaiʻi (March 2023). Poster.
-
-ComputEL 6, Virtual (March 2023). Talk. 
-
-### Linguistics Education as a Supplement to Second Language Learning: A Guided Introduction to Language Construction
+ComputEL 6 (March 2023). Virtual Talk. 
 
 ## Health and Computer Science
 
 ### An Introduction to Digital Phenotyping for Global Health
 
-## “SurgiBox” and “An Introduction to Digital Phenotyping for Global Health”: 
-
 Healthcare and Data Science Conference, Thimphu, Bhutan (October 2019). Invited talk.
 
-## “Sustainable, Community-Driven Design for Global Poverty Alleviation”: 
+### Sustainable, Community-Driven Design for Global Poverty Alleviation
 
 China Thinks Big Conference, Harvard University, Cambridge MA (April 2019). Talk.
 
-“An Introduction to Digital Phenotyping for Global Health” and “Quantum Computing Demystified”: KKU mHealth Datathon in Khon Kaen, Thailand (Sept 2018). Invited talk. 
+### An Introduction to Digital Phenotyping for Global Health
 
-## “Quantum Computing Demystified”: 
+KKU mHealth Datathon in Khon Kaen, Thailand (Sept 2018). Invited talk. 
+
+### Quantum Computing Demystified 
 
 Women Who Code CONNECT Conference, Seattle WA (March 2016). Talk. 
 
-## Using Diagrammatic Calculus and Conjecture Synthesis to Facilitate Reasoning about Quantum Information Flow.” 
+### Using Diagrammatic Calculus and Conjecture Synthesis to Facilitate Reasoning about Quantum Information Flow
 
 Trinity College Cambridge, Cambridge UK (Feb 2014). Poster.
