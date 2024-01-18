@@ -2,9 +2,9 @@
 title: "General Linguistics and Artificial Intelligence"
 collection: teaching
 type: "Undergraduate course"
-permalink: 
+#permalink: 
 venue: "University of Hawaiʻi at Mānoa, Department of Linguistics"
-date: Spring 2024
+#date: Spring 2024
 location:
 ---
 
