@@ -1,10 +1,10 @@
 ---
 title: "LING 320: General Linguistics and Artificial Intelligence"
 collection: teaching
-#type: 
+#type: Undergraduate course
 #permalink: 
-venue: "University of Hawaiʻi at Mānoa, Department of Linguistics"
-#date: Spring 2024
+venue: "UH Mānoa Department of Linguistics"
+date: 2024
 location:
 ---
 
