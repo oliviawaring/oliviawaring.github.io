@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-### SITE UNDER CONSTRUCTION
+### SITE UNDER CONSTRUCTION (please excuse the mess!)
 
 *Statement about teaching*
 

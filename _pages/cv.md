@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-### SITE UNDER CONSTRUCTION
+### SITE UNDER CONSTRUCTION (please excuse the mess!)
 
 
 {% include base_path %}

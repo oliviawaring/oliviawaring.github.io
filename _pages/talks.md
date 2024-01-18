@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-### SITE UNDER CONSTRUCTION
+### SITE UNDER CONSTRUCTION (please excuse the mess!)
 
 
 {% if site.talkmap_link == true %}
