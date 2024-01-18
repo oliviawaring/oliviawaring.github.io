@@ -13,7 +13,7 @@ redirect_from:
 
 ### BS Chemistry (minor in Chinese Language and Culture)
 
-Princeton University, 2012, <i>summa cum laude</i>
+:      Princeton University, 2012, <i>summa cum laude</i>
 
 ### MSt General Linguistics and Comparative Philology
 
