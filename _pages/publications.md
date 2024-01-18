@@ -7,17 +7,18 @@ author_profile: true
 
 ### SITE UNDER CONSTRUCTION
 
+### A Finite State Model for Morphological Analysis of Eyak 
+
+<b>Waring, O.M.</b>, Holton, G. Forthcoming. <i>In Proceedings</i>: ComputEL 7.
+
 ### Structural Topology Defines Protective CD8+ T cell Epitopes in the HIV Proteome. 
 
-<i>Science</i>, 2019
-
-Gaiha, G., Rossin, E., Urbach, J.,Landeros. C., Collins, D.R., Nwonu, C., Muzhingi, I., Anahtar, M.N., <b>Waring, O.M.</b>, Piechocka-Trocha, A., Waring, M., Worrall, D.P., Newman, R.M., Power, K.A., Allen, T.M., Chodosh, J., Walker, B.D.
+Gaiha, G., Rossin, E., Urbach, J.,
+Landeros. C., Collins, D.R., Nwonu, C., Muzhingi, I., Anahtar, M.N., <b>Waring, O.M.</b>, Piechocka-Trocha, A., Waring, M., Worrall, D.P., Newman, R.M., Power, K.A., Allen, T.M., Chodosh, J., Walker, B.D. <i>Science</i> (2019).
 
 ### Introduction to Digital Phenotyping for Global Health.
 
-Chapter in: <i>Leveraging Data Science for Global Health</i> (2020) Celi, L., Majumder, M., Ordóñez, P., Osorio, J., Paik, K., Somai, M. (eds) . Springer, Cham. https://doi.org/10.1007/978-3-030-47994-7_15
-
-<b>Waring, O.M.</b>, Majumder, M.S. 
+<b>Waring, O.M.</b>, Majumder, M.S. Chapter in: <i>Leveraging Data Science for Global Health</i> (2020) Celi, L., Majumder, M., Ordóñez, P., Osorio, J., Paik, K., Somai, M. (eds). <i>Springer</i>, Cham. 
 
 
 {% if author.googlescholar %}
