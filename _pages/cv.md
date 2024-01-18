@@ -16,11 +16,16 @@ redirect_from:
 Princeton University, 2012, <i>summa cum laude</i>
 
 ## MSt General Linguistics and Comparative Philology
-:sdgagf
+
+University of Oxford, 2013, <i>distinction</i>
 
 ## PhD Linguistics
 
-## Coursework in
+University of Hawaiʻi at Mānoa, matriculated 2022
+
+## Coursework in Medical Engineering and Medical Physics
+
+MIT and Harvard Medical School, enrolled 2017-19
 
 # Previous Work
 
