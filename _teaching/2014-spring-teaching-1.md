@@ -4,7 +4,7 @@ collection: teaching
 #type: Undergraduate course
 #permalink: 
 venue: "UH Mānoa Department of Linguistics"
-date: 2024
+#date: 2024
 location:
 ---
 
