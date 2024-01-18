@@ -12,13 +12,13 @@ SITE UNDER CONSTRUCTION
 
 Aloha! 
 
-I am a PhD student in linguistics at the University of Hawai'i at Mānoa, where my research lies at the intersection of endangered language documentation and computational linguistics. I am particularly interested in developing computational platforms and pedagogical tools to facilitate community-driven language documentation and reclamation. My other research interests include community radio as a vehicle for revitalization, polysynthetic morphology, and education for women and girls in the developing world. I have served as the senior co-director of the Language Documentation Training Center, and I currently work on language documentation and revitalization projects in Alaska (Eyak), Micronesia (Carolinian), and India (?). I also work as a classical radio host at Hawaiʻi Public Radio (and previously at Classical Radio Boston).
+I am a PhD student in linguistics at the University of Hawai'i at Mānoa, where my research lies at the intersection of endangered language documentation and computational linguistics. I am particularly interested in developing computational platforms and pedagogical tools to facilitate community-driven language documentation and reclamation. My other research interests include community radio as a vehicle for revitalization, morpho-syntax morphology, and education for women and girls in the developing world. I have served as the senior co-director of the Language Documentation Training Center, and I currently work on language documentation and revitalization projects in Alaska (Eyak), Micronesia (Carolinian), and India (?). I also work as a classical radio host at <a href="https://www.hawaiipublicradio.org/people/olivia-waring">Hawaiʻi Public Radio</a> (and previously at <a href="https://www.classicalwcrb.org/blog/2020-03-25/radio-hosting-in-the-time-of-covid-19">Classical Radio Boston</a>).
 
-## Education
+# Education
 Definition List Title
 :   Definition list division.
 
-## Previous Work
+# Previous Work
 
 I began my academic journey in the natural sciences, with a focus on physical and computational chemistry. Over the years, I have worked as a software engineer at NPR and Microsoft; a journalist in rural India; and a high school chemistry and computer science teacher in Boston. One consistent through-line ... education and ... 
 
