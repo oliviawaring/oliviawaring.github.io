@@ -23,7 +23,9 @@ read_time: false
 {% endfor %}-->
 
 <details>
-  <summary>## Linguistics</summary>
+
+  <summary><b>Linguistics</b></summary>
+
 
 ### Community Radio and Podcasting as a Vehicle for Language Revitalization
 
