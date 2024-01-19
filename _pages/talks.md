@@ -4,8 +4,9 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 header:
-  overlay_image: foo-bar-identity.jpg
+  overlay_image: 
   overlay_filter: 0.3
+read_time: false
 
 ---
 ### SITE UNDER CONSTRUCTION (please excuse the mess!)
@@ -21,6 +22,8 @@ header:
   {% include archive-single-talk.html %}
 {% endfor %}-->
 
+<details>
+  <summary>Hello</summary>
 ## Linguistics
 
 ### Community Radio and Podcasting as a Vehicle for Language Revitalization
@@ -34,6 +37,8 @@ Hawai‘i Association of Language Teachers Conference, Honolulu, Hawaiʻi (April
 ### Auto-Transcription of Endangered Sign Languages Using Haar Cascade Classifiers
 
 ComputEL 6 (March 2023). Virtual Talk. 
+
+</details>
 
 ## Health and Computer Science
 
