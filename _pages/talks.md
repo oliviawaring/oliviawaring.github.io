@@ -9,8 +9,6 @@ header:
 read_time: false
 
 ---
-### SITE UNDER CONSTRUCTION (please excuse the mess!)
-
 
 {% if site.talkmap_link == true %}
 
@@ -39,6 +37,7 @@ Hawai‘i Association of Language Teachers Conference, Honolulu, Hawaiʻi (April
 ComputEL 6 (March 2023). Virtual Talk. 
 
 </details>
+
 
 <details>
   <summary><b>Public Health and Computer Science</b></summary>
