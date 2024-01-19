@@ -23,7 +23,6 @@ read_time: false
 {% endfor %}-->
 
 <details>
-
   <summary><b>Linguistics</b></summary>
 
 
