@@ -4,7 +4,8 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 header:
-  image: foo-bar-identity.jpg
+  overlay_image: foo-bar-identity.jpg
+  overlay_filter: 0.3
 
 ---
 ### SITE UNDER CONSTRUCTION (please excuse the mess!)
