@@ -40,7 +40,8 @@ ComputEL 6 (March 2023). Virtual Talk.
 
 </details>
 
-## Public Health and Computer Science
+<details>
+  <summary><b>Public Health and Computer Science</b></summary>
 
 ### An Introduction to Digital Phenotyping for Global Health
 
@@ -61,3 +62,5 @@ Women Who Code CONNECT Conference, Seattle WA (March 2016). Talk.
 ### Using Diagrammatic Calculus and Conjecture Synthesis to Facilitate Reasoning about Quantum Information Flow
 
 Trinity College Cambridge, Cambridge UK (Feb 2014). Poster.
+
+</details>
