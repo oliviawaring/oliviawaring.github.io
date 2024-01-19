@@ -41,7 +41,7 @@ ComputEL 6 (March 2023). Virtual Talk.
 
 </details>
 
-## Health and Computer Science
+## Public Health and Computer Science
 
 ### An Introduction to Digital Phenotyping for Global Health
 
