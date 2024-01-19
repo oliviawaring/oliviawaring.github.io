@@ -1,5 +1,6 @@
 ---
 layout: forward
-target: https://github.com/oliviawaring/timeliner
+target: http://oliviawaring.github.io/timeliner
+
 ---
 
