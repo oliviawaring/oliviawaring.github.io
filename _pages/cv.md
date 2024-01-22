@@ -29,4 +29,4 @@ University of Hawaiʻi at Mānoa, matriculated 2022
 
 MIT and Harvard Medical School, enrolled 2017-19 
 
-<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'> 
+<!--<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'> -->
