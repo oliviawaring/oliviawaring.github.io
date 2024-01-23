@@ -21,12 +21,14 @@ Princeton University, 2012, <i>summa cum laude</i>
 
 University of Oxford, 2013, <i>distinction</i>
 
+### Coursework in Medical Engineering and Medical Physics
+
+MIT and Harvard Medical School, enrolled 2017-19 
+
 ### PhD Linguistics
 
 University of Hawaiʻi at Mānoa, matriculated 2022
 
-### Coursework in Medical Engineering and Medical Physics
 
-MIT and Harvard Medical School, enrolled 2017-19 
 
 <!--<embed src="{{ site.baseurl }}/files/CV.pdf" width="600" height="700" type='application/pdf'> -->
